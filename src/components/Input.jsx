@@ -3,7 +3,14 @@ import './Input.css';
 
 const Input = () => {
   return (
-    <div clasname>Input</div>
+    <div className='input-wrapper'>
+        <div className='result'>
+            <h1>Result</h1>
+        </div>
+        <div className="text">
+            <h3>Test</h3>
+        </div>
+    </div>
   )
 }
 
