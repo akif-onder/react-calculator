@@ -3,7 +3,7 @@ import './Input.css';
 
 const Input = () => {
   return (
-    <div>Input</div>
+    <div clasname>Input</div>
   )
 }
 
